@@ -1,1 +1,7 @@
-# Simon_Game
+# Simon Game
+
+The game creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails, the game is over.
+
+### Usage
+
+Pick the colored box by simply clicking on it.
